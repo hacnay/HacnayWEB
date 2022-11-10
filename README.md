@@ -14,9 +14,9 @@ for Backend  Development- PHP, SQL**
 Below you will find some information on how to perform Installation and Setup tasks.
 **Clone this repository**
 **Install Dependency**
-```
+
 download install XAMPP- https://www.apachefriends.org/download.html
-```
+
 ```
 After Installation turn on Apache and MYSql from XAMPP control panel
 ```
