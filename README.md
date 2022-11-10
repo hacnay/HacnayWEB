@@ -3,11 +3,12 @@
 
 Xenon_project
 This is a car sale Website that is both compatible with Desktop and Mobile.
+### For Frontend Development- HTML,CSS,JAVASCRIPT,PHP
+### For Backend  Development- PHP, SQL
 # Project Status
 
-This project is currently in development mode.
-**for Frontend Development- HTML,CSS,JAVASCRIPT,PHP
-for Backend  Development- PHP, SQL**
+**This project is currently in development mode.**
+
 
 # Installation and Setup Instructions
 
@@ -20,7 +21,9 @@ download install XAMPP- https://www.apachefriends.org/download.html
 ```
 After Installation turn on Apache and MYSql from XAMPP control panel
 ```
-```Put your files in htdoc inside your XAMPP folder
+
+```
+Put your files in htdoc inside your XAMPP folder
 ```
 Open [http://localhost/file_name to view it in the browser.
 
@@ -31,7 +34,10 @@ You will also see any lint errors in the console.
 from creating and running this application using your local database we need to create our OWN DATABASE in MYSQL
 Install and Download phpadmin- https://www.phpmyadmin.net/
 
-Open [http://localhost/phpmyadmin
+Open
+```
+http://localhost/phpmyadmin
+```
 
 # WEBSITE HOME PAGE
 ![Screenshot (61)](https://user-images.githubusercontent.com/55694609/200975139-dc80eb2e-3cf8-4c93-8a4a-2c31b2466e94.png)
