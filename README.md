@@ -13,7 +13,12 @@ This is a car sale Website that is both compatible with Desktop and Mobile.
 # Installation and Setup Instructions
 
 Below you will find some information on how to perform Installation and Setup tasks.
+
 **Clone this repository**
+```
+qwe
+```
+
 **Install Dependency**
 
 download install XAMPP- https://www.apachefriends.org/download.html
