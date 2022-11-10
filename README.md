@@ -16,7 +16,7 @@ Below you will find some information on how to perform Installation and Setup ta
 
 **Clone this repository**
 ```
-qwe
+https://github.com/hacnay/HacnayWEB.git
 ```
 
 **Install Dependency**
