@@ -3,8 +3,8 @@
 
 Xenon_project
 This is a car sale Website that is both compatible with Desktop and Mobile.
-### For Frontend Development- HTML,CSS,JAVASCRIPT,PHP
-### For Backend  Development- PHP, SQL
+#### For Frontend Development- HTML,CSS,JAVASCRIPT,PHP
+#### For Backend  Development- PHP, SQL
 # Project Status
 
 **This project is currently in development mode.**
