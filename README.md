@@ -76,6 +76,8 @@ http://localhost/phpmyadmin
 **OUTPUT OF THE FORM**
 ![Screenshot (82)](https://user-images.githubusercontent.com/55694609/200974613-9f2a48da-f677-45c4-85a8-368fbe084847.png)
 
+## FOR WORKING VIDEO PLEASE SEE THE TEST VIDEO IN SCREENSHOT FOLDER
+
 
 
 
