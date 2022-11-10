@@ -33,6 +33,10 @@ Install and Download phpadmin- https://www.phpmyadmin.net/
 
 Open [http://localhost/phpmyadmin
 
+# WEBSITE HOME PAGE
+![Screenshot (61)](https://user-images.githubusercontent.com/55694609/200975139-dc80eb2e-3cf8-4c93-8a4a-2c31b2466e94.png)
+
+
 # BELOW ARE THE SCREENSHOT OF THE OUT FROM **CONTACT US** AND **LOGIN** PAGES 
 
 ![Screenshot (82)](https://user-images.githubusercontent.com/55694609/200970970-802e110f-316b-4d48-bb7e-d4440cd5c351.png)
@@ -43,10 +47,11 @@ Open [http://localhost/phpmyadmin
 
 ![Screenshot (67)](https://user-images.githubusercontent.com/55694609/200973787-fee828f1-f5af-448c-bf76-a730b14112d9.png)
 ![Screenshot (68)](https://user-images.githubusercontent.com/55694609/200973836-bab196a6-a3fe-485a-bde3-4337262ec5e2.png)
+![Screenshot (69)](https://user-images.githubusercontent.com/55694609/200975004-4ff4e729-58cd-41f5-9cc1-0982108b54eb.png)
+
 ![Screenshot (81)](https://user-images.githubusercontent.com/55694609/200973935-3346822a-c2e7-457a-95c0-0e4ef5611a4f.png)
 # AFTER REGISTRATION WE CAN LOGIN
 ![Screenshot (66)](https://user-images.githubusercontent.com/55694609/200974036-a1f9dd18-ded8-4b39-b4ad-e2cd899700c3.png)
-![Screenshot (70)](https://user-images.githubusercontent.com/55694609/200974082-ed0f95d2-54d8-4d37-abd2-9083286bd4f0.png)
 # WE CAN LOGOUT FROM THE LOGOUT BUTTON PRESENT IN THE BOX
 ![Screenshot (71)](https://user-images.githubusercontent.com/55694609/200974191-6599aa85-c57c-43a0-9ff5-12b3be00b348.png)
 
